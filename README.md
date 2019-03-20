@@ -25,7 +25,7 @@ Para el proyecto de Kuuch Kalan, trabajamos bajo la metodología de ["Design Thi
 ## Empatización con el cliente y el negocio
 En primera instancia, investigamos a nuestra clienta "Karla Bezies" y realizamos un netnografía de su sitio web.
 
-![Karla Bezies](/EvidenciaKuuchKalan/Imagenes/KarlaB.png) ![Netnografía Kuuch Kalan](./Evidencia Kuuch Kalan/Imagenes/NetKuuchKalan.png)
+![Karla Bezies](/EvidenciaKuuchKalan/Imagenes/KarlaB.png) ![Netnografía Kuuch Kalan](/Evidencia KuuchKalan/Imagenes/NetKuuchKalan.png)
 
 
 Posteriormente acordamos una cita para entrevistar a Karla y conocer más acerca de ella, su empresa y sus usuarias.
@@ -50,11 +50,11 @@ Con esta información realizamos un prototipado de user persona:
 
 Cuando comenzamos a hacer el  ![user joruney map](https://blog.interactius.com/metodolog%C3%ADas-de-ux-user-journey-map-c38da9046160), nos dimos cuenta que aún teníamos dudas acerca de cuáles eran los pains and gains de nuestras usuarias, por lo que realizamos una segunda iteración de empatización para conocer a estas mujeres.
 
-- ![Design Thinking Process](Evidencia Kuuch Kalan/Imagenes/designThinking.png)
+- ![Design Thinking Process](/EvidenciaKuuchKalan/Imagenes/designThinking.png)
 
 Realizamos una segunda entrevista (la cual puedes escuchar ![aquí]()). De esta entrevista y con la información que ya contábamos obtuvimos los siguientes insights:
 
-- ![Insights](Evidencia Kuuch Kalan/Imagenes/Insights.png)
+- ![Insights](/EvidenciaKuuchKalan/Imagenes/Insights.png)
 
 ## Define
 
@@ -62,30 +62,30 @@ Realizamos una segunda entrevista (la cual puedes escuchar ![aquí]()). De esta 
 
 Realizamos un análisis acerca de marcas que ofrecen un servicio similar al de Kuuch Kalan:
 
-- ![Benchmark](Evidencia Kuuch Kalan/Imagenes/Benchmark.png)
-- ![Benchmark](Evidencia Kuuch Kalan/Imagenes/KapuyoB.png)
-- ![Benchmark](Evidencia Kuuch Kalan/Imagenes/LaRebozeríaB.png)
-- ![Benchmark](Evidencia Kuuch Kalan/Imagenes/MiniMahueB.png)
-- ![Benchmark](Evidencia Kuuch Kalan/Imagenes/SeahorseB.png)
-- ![Benchmark](Evidencia Kuuch Kalan/Imagenes/CorazonCorazonB.png)
+- ![Benchmark](/EvidenciaKuuchKalan/Imagenes/Benchmark.png)
+- ![Benchmark](/EvidenciaKuuchKalan/Imagenes/KapuyoB.png)
+- ![Benchmark](/EvidenciaKuuchKalan/Imagenes/LaRebozeríaB.png)
+- ![Benchmark](/EvidenciaKuuchKalan/Imagenes/MiniMahueB.png)
+- ![Benchmark](/EvidenciaKuuchKalan/Imagenes/SeahorseB.png)
+- ![Benchmark](/EvidenciaKuuchKalan/Imagenes/CorazonCorazonB.png)
 
 Después realizamos el user journey map:
 
-- ![User Journey Map](Evidencia Kuuch Kalan/Imagenes/UserJourneyMap.png)
+- ![User Journey Map](/EvidenciaKuuchKalan/Imagenes/UserJourneyMap.png)
 
 
 ## Ideación
 
 Para este proceso realizamos el ejercicio de ![How Might We...](https://www.saraclip.com/metodo-how-might-we/)
-- ![How Might We](Evidencia Kuuch Kalan/Imagenes/HowMightWe.png)
-- ![Crazy Eights](Evidencia Kuuch Kalan/Imagenes/CrazyEights.png)
-- ![MTP](Evidencia Kuuch Kalan/Imagenes/MTP.png)
-- ![Propuesta de valor](Evidencia Kuuch Kalan/Imagenes/PropuestDeValor.png)
+- ![How Might We](/EvidenciaKuuchKalan/Imagenes/HowMightWe.png)
+- ![Crazy Eights](/EvidenciaKuuchKalan/Imagenes/CrazyEights.png)
+- ![MTP](/EvidenciaKuuchKalan/Imagenes/MTP.png)
+- ![Propuesta de valor](/EvidenciaKuuchKalan/Imagenes/PropuestDeValor.png)
 
 ## Prototipado
 
-- ![Kuuch Kalan](Evidencia Kuuch Kalan/Imagenes/KuuchKalanLogo.jpg)
-- ![Karla Bezies](Evidencia Kuuch Kalan/Imagenes/KarlaBezies2.png)
+- ![Kuuch Kalan](/EvidenciaKuuchKalan/Imagenes/KuuchKalanLogo.jpg)
+- ![Karla Bezies](/EvidenciaKuuchKalan/Imagenes/KarlaBezies2.png)
 
 
 <!-- README.md explicando el proceso del proyecto:
