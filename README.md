@@ -12,7 +12,7 @@ El porteo es un sistema para llevar a bebés asegurando un contacto constante en
 
 - Metodología
 
-Para el proyecto de Kuuch Kalan, trabajamos bajo la metodología de !["Design Thinking"](http://www.designthinking.es/inicio/). Los pasos que realizamos fueron:
+Para el proyecto de Kuuch Kalan, trabajamos bajo la metodología de ["Design Thinking"](http://www.designthinking.es/inicio/). Los pasos que realizamos fueron:
 
 - [Empatización](#Empatización)
 - [Segunda iteración empatización](#Segunda_Iteración_Empatización)
@@ -25,7 +25,7 @@ Para el proyecto de Kuuch Kalan, trabajamos bajo la metodología de !["Design Th
 ## Empatización con el cliente y el negocio
 En primera instancia, investigamos a nuestra clienta "Karla Bezies" y realizamos un netnografía de su sitio web.
 
-![Karla Bezies](Evidencia Kuuch Kalan/Imagenes/KarlaB.png) ![Netnografía Kuuch Kalan](Evidencia Kuuch Kalan/Imagenes/NetKuuchKalan.png)
+![Karla Bezies](/Evidencia Kuuch Kalan/Imagenes/KarlaB.png) ![Netnografía Kuuch Kalan](./Evidencia Kuuch Kalan/Imagenes/NetKuuchKalan.png)
 
 
 Posteriormente acordamos una cita para entrevistar a Karla y conocer más acerca de ella, su empresa y sus usuarias.
