@@ -25,7 +25,7 @@ Para el proyecto de Kuuch Kalan, trabajamos bajo la metodología de ["Design Thi
 ## Empatización con el cliente y el negocio
 En primera instancia, investigamos a nuestra clienta "Karla Bezies" y realizamos un netnografía de su sitio web.
 
-![Karla Bezies](/Evidencia Kuuch Kalan/Imagenes/KarlaB.png) ![Netnografía Kuuch Kalan](./Evidencia Kuuch Kalan/Imagenes/NetKuuchKalan.png)
+![Karla Bezies](/EvidenciaKuuchKalan/Imagenes/KarlaB.png) ![Netnografía Kuuch Kalan](./Evidencia Kuuch Kalan/Imagenes/NetKuuchKalan.png)
 
 
 Posteriormente acordamos una cita para entrevistar a Karla y conocer más acerca de ella, su empresa y sus usuarias.
@@ -43,7 +43,7 @@ Para conocer los datos que nos arrojaron estas entrevistas da click a:
 - Encuestas "porteo ergonómico para mamás".
 
 Con esta información realizamos un prototipado de user persona:
-- ![Proto Persona](/Evidencia Kuuch Kalan/Imagenes/proto-persona.png)
+- ![Proto Persona](/EvidenciaKuuchKalan/Imagenes/proto-persona.png)
 
 
 ## Segunda Iteración Empatización
