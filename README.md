@@ -40,7 +40,7 @@ Después de la entrevista con Karla, le solicitamos el contacto de 6 de sus usua
 De igual manera realizamos 9 encuestas a posibles usuarias para saber cuáles eran las maneras con las que transportaban a sus bebés.
 
 Para conocer los datos que nos arrojaron estas entrevistas da click a:
-- ![Entrevistas usuarias Kuuch Kalan](Kuuch Kalan(respuestas.xlsx)
+- [Entrevistas usuarias Kuuch Kalan](Kuuch Kalan(respuestas.xlsx)
 - Encuestas "porteo ergonómico para mamás".
 
 Con esta información realizamos un prototipado de user persona:
@@ -49,11 +49,11 @@ Con esta información realizamos un prototipado de user persona:
 
 ## Segunda Iteración Empatización
 
-Cuando comenzamos a hacer el  ![user joruney map](https://blog.interactius.com/metodolog%C3%ADas-de-ux-user-journey-map-c38da9046160), nos dimos cuenta que aún teníamos dudas acerca de cuáles eran los pains and gains de nuestras usuarias, por lo que realizamos una segunda iteración de empatización para conocer a estas mujeres.
+Cuando comenzamos a hacer el  [user joruney map](https://blog.interactius.com/metodolog%C3%ADas-de-ux-user-journey-map-c38da9046160), nos dimos cuenta que aún teníamos dudas acerca de cuáles eran los pains and gains de nuestras usuarias, por lo que realizamos una segunda iteración de empatización para conocer a estas mujeres.
 
 - ![Design Thinking Process](/EvidenciaKuuchKalan/Imagenes/designThinking.png)
 
-Realizamos una segunda entrevista (la cual puedes escuchar ![aquí]()). De esta entrevista y con la información que ya contábamos obtuvimos los siguientes insights:
+Realizamos una segunda entrevista (la cual puedes escuchar [aquí]()). De esta entrevista y con la información que ya contábamos obtuvimos los siguientes insights:
 
 - ![Insights](/EvidenciaKuuchKalan/Imagenes/Insights.png)
 
@@ -77,7 +77,7 @@ Después realizamos el user journey map:
 
 ## Ideación
 
-Para este proceso realizamos el ejercicio de ![How Might We...](https://www.saraclip.com/metodo-how-might-we/)
+Para este proceso realizamos el ejercicio de [How Might We...](https://www.saraclip.com/metodo-how-might-we/)
 - ![How Might We](/EvidenciaKuuchKalan/Imagenes/HowMightWe.png)
 - ![Crazy Eights](/EvidenciaKuuchKalan/Imagenes/CrazyEights.png)
 - ![MTP](/EvidenciaKuuchKalan/Imagenes/MTP.png)
