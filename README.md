@@ -8,7 +8,7 @@ El porteo es un sistema para llevar a bebés asegurando un contacto constante en
 
 ## ¿Cómo planificamos y qué herramientas y metodologías usamos?
 
-- Presupuesto
+<!-- - Presupuesto -->
 
 - Metodología
 
@@ -43,7 +43,7 @@ Para conocer los datos que nos arrojaron estas entrevistas da click a:
 - Encuestas "porteo ergonómico para mamás".
 
 Con esta información realizamos un prototipado de user persona:
-- ![Proto Persona](Evidencia Kuuch Kalan/Imagenes/proto-persona.png)
+- ![Proto Persona](/Evidencia Kuuch Kalan/Imagenes/proto-persona.png)
 
 
 ## Segunda Iteración Empatización
