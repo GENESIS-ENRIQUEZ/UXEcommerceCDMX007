@@ -25,7 +25,8 @@ Para el proyecto de Kuuch Kalan, trabajamos bajo la metodología de ["Design Thi
 ## Empatización con el cliente y el negocio
 En primera instancia, investigamos a nuestra clienta "Karla Bezies" y realizamos un netnografía de su sitio web.
 
-![Karla Bezies](/EvidenciaKuuchKalan/Imagenes/KarlaB.png) ![Netnografía Kuuch Kalan](/Evidencia KuuchKalan/Imagenes/NetKuuchKalan.png)
+![Karla Bezies](/EvidenciaKuuchKalan/Imagenes/KarlaB.png)
+![Netnografía Kuuch Kalan](/EvidenciaKuuchKalan/Imagenes/NetKuuchKalan.png)
 
 
 Posteriormente acordamos una cita para entrevistar a Karla y conocer más acerca de ella, su empresa y sus usuarias.
