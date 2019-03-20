@@ -1,3 +1,4 @@
+
 ## Cliente "Kuuch Kalan"
 
 ## Preámbulo
@@ -119,4 +120,4 @@ Cuál será la propuesta de valor del sitio que vas a crear
 Cuáles son los contenidos que el usuarios quiere ver, la información que buscarían para convencerse de comprar, confiar en la empresa que lo ofrece, encontrar lo que busca y comprarlo
 Cómo vas a distribuir y entregar esos contenidos
 Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
-Cómo crees que el producto les está resolviendo sus problemas -->
+Cómo crees que el producto les está resolviendo sus problemas
