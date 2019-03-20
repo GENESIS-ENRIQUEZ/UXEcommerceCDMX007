@@ -7,16 +7,6 @@ Basado en las necesidades especificadas por Karla Bezies lo objetivos se resumen
 - Imprimir en la marca la experiencia generada por el servicio.
 - Lograr la captación de nuevos clientes por medio de los canales existentes.
 
-##Problemáticas
-De acuerdo a la investigación efectuada a los canales de Karla Bezies (WA, FB, Instagram),a clientas y posibles usuarios podemos destacar los siguientes problemas.
-
-A nivel Emprendimiento:
-- Administración de tiempo para la atención oportuna de solicitudes de información de servicios y productos.
-- Preguntas frecuentes que se atienden de uno a uno.
-- No se transmite la experiencia generada en el servicio.
-
-A nivel Usuario:
-
 
 # Plataforma de ventas en línea
 
