@@ -1,5 +1,14 @@
+##Objetivos
+Basado en las necesidades especificadas por Karla Bezies lo objetivos se resumen en lo siguiente:
 
-## Cliente "Kuuch Kalan"
+- Pulir marca
+- Lograr el aumento de ventas de los servicios y productos.
+- Implementar recursos que agilizen la atención al cliente, el seguimiento y la concretación de la venta.
+- Imprimir en la marca la experiencia generada por el servicio.
+- Lograr la captación de nuevos clientes por medio de los canales existentes.
+
+
+# Plataforma de ventas en línea
 
 ## Preámbulo
 
