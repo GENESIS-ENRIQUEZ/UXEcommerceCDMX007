@@ -38,7 +38,8 @@ El porteo es un sistema para llevar a bebés asegurando un contacto constante en
 
 ## ¿Cómo planificamos y qué herramientas y metodologías usamos?
 
-<!-- - Presupuesto -->
+- Presupuesto de Actividades utilizadas
+- ![Presupuesto](/EvidenciaKuuchKalan/Imagenes/tablaPresupuestal.png)
 
 - Metodología
 
