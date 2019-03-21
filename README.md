@@ -1,14 +1,34 @@
-##Objetivos
-Basado en las necesidades especificadas por Karla Bezies lo objetivos se resumen en lo siguiente:
+## Objetivos
+Basado en las necesidades especificadas por Karla Bezies los objetivos se resumen en lo siguiente:
 
-- Pulir marca
-- Lograr el aumento de ventas de los servicios y productos.
-- Implementar recursos que agilizen la atención al cliente, el seguimiento y la concretación de la venta.
-- Imprimir en la marca la experiencia generada por el servicio.
+- Definir fortalezas y deficiencias de la marca.
 - Lograr la captación de nuevos clientes por medio de los canales existentes.
+- Implementar recursos que agilizen la atención al cliente, el seguimiento y la concretación de la venta.
+- Imprimir en la marca la experiencia generada por el servicio y producto.
 
+## Problemas identificados en la investigación
+Realizamos en totalidad, 2 entrevistas, a la emprendedora y a su hermana que en algún punto la ayudó a administrar la página de facebook, 6 encuestas a clientas y 9 a posibles usuarias. Los problemas detectados fueron:
 
-# Plataforma de ventas en línea
+A nivel Emprendedora:
+- Falta de organización para obtener el tiempo necesario de atender solicitudes, dar seguimiento constante a ventas hasta lograr concretarlas.
+- Captación de clientas en su mayoría por recomendaciones, que por el propio canal de facebook.
+- Utiliza el teléfono celular como medio de mayor contacto con sus clientes que por el chat de facebook, lo que hace morosa las respuestas. 
+
+A nivel Clientes:
+- La fuerte referencia de la marca es el nombre de la misma emprendedora.
+- Aceptación y reconocimiento de calidad tanto del producto como del servicio.
+
+A nivel posibles Usuarios:
+- Priorizan su comodidad y no la de su bebé.
+- La madurez, nivel educativo, económico y los círculos sociales definen significativamente el interés y aceptación en temas de porteo.
+- Para atraerlos, esperan imagenes realistas y videos en una página que trate sobre el porteo.
+
+## Definición de la solución/producto
+En primera instancia, nos dimos a la tarea de resolver lo que significó el mayor de los problemas: la administración de tareas ahorrando tiempo y esfuerzo, diseñando un contenido organizado que informe y contagie la experiencia que se vive, facilitar el contacto por los canales que existan.
+
+- Automatizando respuestas a preguntas frecuentes, tales como información de sus servicios y productos, mediante ChatBot en su página de facebook.
+- Diseñar Web App donde se concentre el catálogo de productos así como la información pertinente al servicio, imprimiendo constantemente el significado de ser una inigualable experiencia.
+- Brindar el contacto telefónico en estos dos canales de manera constante y de fácil acceso.
 
 ## Preámbulo
 
@@ -97,8 +117,8 @@ Para este proceso realizamos el ejercicio de [How Might We...](https://www.sarac
 
 - ![Kuuch Kalan](/EvidenciaKuuchKalan/Imagenes/KuuchKalanLogo.jpg)
 - ![Karla Bezies](/EvidenciaKuuchKalan/Imagenes/KarlaBezies2.png)
-
-
+- [Protoripado de baja fidelidad](https://balsamiq.cloud/sas0jk1/pjc5k19/r85A5)
+- [Protoripado de alta fidelidad](https://marvelapp.com/1d9666i6/screen/53886498)
 <!-- README.md explicando el proceso del proyecto:
 
 Objetivos del proyecto
